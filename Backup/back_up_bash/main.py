@@ -1,7 +1,7 @@
 # main.py
 from back_up_main.back_up import BackUp
 
-print("Welcome to use back up. More information: https://github.com/mengqinyuan/backup")
+print("Welcome to use back up. More information: https://github.com/mengqinyuan/Back_Up")
 
 source_dir = input("Please input the source directory: ")
 destination_dir = input("Please input the destination directory: ")
